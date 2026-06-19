@@ -1,5 +1,7 @@
 # EndChat iOS
 
+thank you chat for this readme 
+
 EndChat is now a native iOS app. There is no web build, no Capacitor wrapper, no hosted website dependency, and no bundled browser app.
 
 ## Features
